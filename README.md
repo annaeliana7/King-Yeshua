@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
  
-<div align="center">                                                                             
+<div align="center">                                                                              
 
   <img src="assets-README/kefi-Unearthed-5.png" alt="logo" width="280"  height="auto" />
     <h3><b>Anna Petras for KING YESHUA - Kefi Unearthed</b></h3>
